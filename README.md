@@ -8,3 +8,4 @@
 -   [FIWARE Pi](https://github.com/lets-fiware/fiware-pi)
 -   [MapLibre GL widget](https://github.com/lets-fiware/maplibre-gl-widget)
 -   [Cesium.js widget](https://github.com/lets-fiware/cesium-js-widget)
+-   [node-red-contrib-letsfiware-NGSI](https://github.com/lets-fiware/node-red-contrib-letsfiware-NGSI)
